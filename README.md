@@ -6,4 +6,4 @@
 nyc_photos folder contains ~73000 images, from around March 2020 - Jan 2021
 
 # Mulberry St. Photos
-littleitaly_hd_photos folder scraped up to June 2021
+littleitaly_hd_photos folder contains ~25000 images, from Sep. 2013 to June 2021
