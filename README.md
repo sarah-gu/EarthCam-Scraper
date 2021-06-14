@@ -5,4 +5,5 @@
 # NYC Photos
 nyc_photos folder contains ~73000 images, from around March 2020 - Jan 2021
 
-# New Orleans Photos
+# Mulberry St. Photos
+littleitaly_hd_photos folder scraped up to June 2021
