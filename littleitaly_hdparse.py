@@ -9,7 +9,7 @@ import yaml
 
 
 city_name = "littleitaly_hd"
-counter = 3000 #if scraping gets cut off in the middle, restart by changing counter to #imgs already scraped
+counter = 0 #if scraping gets cut off in the middle, restart by changing counter to #imgs already scraped
 url = "https://www.earthcam.com/cams/common/gethofitems.php?hofsource=com&tm=ecn&camera=" + city_name + "&start=" + str(counter) + "&length=21&ec_favorite=0&cdn=0&callback=onjsonpload"
 result = re.search('\[(.*?)\]',"[some_tmp_start]" )
 while(result.group() != ""):
