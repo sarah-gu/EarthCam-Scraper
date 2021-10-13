@@ -4,7 +4,7 @@ EarthCam Hall of Fame images are scraped from the gethofitems.php file on the ea
 
 The file will save the images to a '(city_name)_photos' and '(city_name)_metadata' folder, where each of the files have a unique number identifier and correspond across the photos and metadata folder. Metadata includes information about the time and date the image was scraped. 
 
-After scraping the data you will need to run the corrupt
+After scraping the data you will need to run the corrupt_root.py file to get rid of corrupted images. 
 
 
 # NYC Photos
